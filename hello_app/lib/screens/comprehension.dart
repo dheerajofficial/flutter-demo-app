@@ -40,7 +40,7 @@ class Comprehension extends StatelessWidget {
                   ClipRRect(
                     borderRadius: BorderRadius.circular(30),
                     child: Image.asset(
-                      'assets/images/a.png',
+                      'assets/images/b.png',
                       fit: BoxFit.cover,
                       height: MediaQuery.of(context).size.height * 0.4,
                       width: double.infinity,
